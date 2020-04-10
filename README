@@ -1,0 +1,7 @@
+CamActivity 是摄像头视频播放页面
+
+点击【START】按钮，开始获取视频
+
+文本框【tv_msg1】显示提示信息（会报错，调试结束要去除提示信息）
+
+SurfaceView【camera_video】显示摄像头的视频
